@@ -39,6 +39,7 @@ at3_app/
 - **Frontend Model Loading**: Although the frontend can load models directly, predictions are fetched via API requests to the backend to maintain clean and modular code.  
 
 ---
+---
 
 ### Repository and Docker Links
 
