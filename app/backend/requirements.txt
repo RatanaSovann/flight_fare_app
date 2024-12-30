@@ -1,0 +1,9 @@
+pandas==2.2.2
+scikit-learn==1.5.1
+fastapi==0.111.0
+uvicorn==0.30.1
+joblib==1.4.2
+streamlit==1.39.0
+lightgbm==4.5.0
+xgboost==2.1.2
+catboost==1.2.7
