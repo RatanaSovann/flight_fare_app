@@ -17,7 +17,7 @@ This project is a flight fare prediction application split into:
 ---
 
 ## Folder Structure
-```plaintext
+```bash
 at3_app/
 │
 ├── app/
@@ -37,9 +37,8 @@ at3_app/
 ### Key Details
 - **Model Access**: Both the backend and frontend can access the `models` folder for predictions.  
 - **Frontend Model Loading**: Although the frontend can load models directly, predictions are fetched via API requests to the backend to maintain clean and modular code.  
+```
 
----
----
 
 ### Repository and Docker Links
 
