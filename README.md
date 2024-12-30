@@ -1,4 +1,4 @@
-# Flight_Fare_app: Flight Fare Prediction
+# Flight_Fare_App: Flight Fare Prediction
 
 ## Live Links
 
