@@ -42,7 +42,7 @@ at3_app/
 ### Repository and Docker Links
 
 #### GitHub Repository
-- **[Experiment Repository](https://github.com/FarhanFaiyaz/adv_mla_at3)**  
+- **[Experiment Repository](https://github.com/RatanaSovann/flight_fare_prediction)**  
 
 #### DockerHub Images
 - **Backend**: [ratana001/at3_app-backend](https://hub.docker.com/repository/docker/ratana001/at3_app-backend/general)  
