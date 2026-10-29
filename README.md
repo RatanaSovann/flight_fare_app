@@ -7,7 +7,7 @@
 
 A web app that predicts the fare of a US domestic flight. The user picks a date, time, route, number of stops and cabin class for each leg. A FastAPI backend sends the request to one of four trained gradient-boosting models and returns a fare estimate.
 
-**[Live demo](https://at3-app-frontend-latest.onrender.com/)** · **[Research repo and models](https://github.com/RatanaSovann/flight_fare_prediction)** · **[Project report (PDF)](https://github.com/RatanaSovann/flight_fare_prediction/blob/main/reports/Report.pdf)**
+**[Live demo](https://at3-app-frontend-latest.onrender.com/)** · **[Research repo and models](https://github.com/RatanaSovann/flight_fare_prediction)** · **[Project report](https://github.com/RatanaSovann/flight_fare_prediction/blob/main/reports/REPORT.md)**
 
 > The demo runs on Render's free tier. The first request after a period of inactivity can take a minute or two while the backend wakes up. Opening [the backend health check](https://at3-app-backend-latest.onrender.com/health) first wakes it up.
 
